@@ -24,3 +24,7 @@ the above will produce:
 ```html
 <img title="this is the cover" src="/images/cover.jpg">
 ```
+
+## Others
+- [创建发布自己的npm包](https://www.cnblogs.com/marymei0107/p/6339710.html)
+- [参考hexo-filter-pathfix](https://github.com/wayou/hexo-filter-pathfix)
