@@ -19,6 +19,7 @@ npm install --save hexo-change-img-url
 
 ```markdown
 ![this is the cover](./images/cover.jpg)
+![this is the cover](images/cover.jpg)
 ```
 the above will produce:
 ```html
